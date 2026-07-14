@@ -1,8 +1,0 @@
-l = [ 1,"prince",False,"This","ramu","mithilesh", "riya"]
-
-i = 0
-
-while(i<len(l)):
-    print(l[i])
-
-    i +=1
